@@ -1,1 +1,4 @@
+
 A file for conflicts
+a file on remote to show conflict
+conflict resolved
